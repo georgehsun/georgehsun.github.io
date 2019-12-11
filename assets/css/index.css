@@ -1,0 +1,142 @@
+
+body{
+    margin: 100;
+    padding: 100;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background-color: white;
+   
+}
+
+
+
+
+p{
+
+    color: #777777;
+}
+
+
+
+div#container {
+    background-color= #ffffff;
+}
+
+
+h2 {
+   
+
+    color: white;
+    background-color: #4aaaa5;
+    margin: 2px;
+    padding: 10px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 20px;
+   
+    float: 0;
+    align: left;
+
+    right: 50px;
+    width: 150px;
+    height: 40px;
+    border: 3px solid white;
+}
+   
+
+
+
+h3 {
+    color: #4aaaa5;
+}
+
+
+
+img {
+    float: left;
+
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+
+a{
+    color: grey;
+    background-color: white;
+}
+
+
+
+
+
+
+header{
+    
+    width: 100%;
+    display: block;
+     background-color: white;
+     padding: 0;
+     margin-right: 210px;
+    
+        position: absolute;
+        right: 50px;
+        width: 300px;
+        height: 40px;
+        border: 3px solid white;
+      
+}
+
+.content {
+    padding: 20px;
+    
+    background: white;
+    clear: both;
+    margin-top: 10px;
+    margin-left: 220px;
+    width: 900px;
+    height: 330px;
+    
+}
+
+
+.info{
+   margin-right: 700px;
+}
+
+.name{
+    margin-left: 212px;
+  
+}
+
+
+.greyBox{
+    background-image: url("../images/checkerboard-cross.png");
+    height: 550px;
+    width: 93%;
+    padding: 50px;
+}
+
+
+.greenBox{
+    width: 100%;
+    height: 10px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: #4aaaa5;
+}
+
+
+
+.footer{
+
+    width: 100%;
+    margin-top: -16px;
+    
+    height: 40px;
+    background: darkgrey;
+    
+}

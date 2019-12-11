@@ -1,0 +1,55 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    background-color:green;
+   
+}
+
+.contact-form{
+    width:5%;
+
+}
+
+.name{
+    color: white;
+    background-color: #4aaaa5;
+    margin: 0px;
+    width: 30%;
+ 
+   
+}
+
+
+.ad{
+    float: right ;
+    background-color:white;
+    color: black;
+    clear: left;
+  
+
+}
+
+
+.submit{
+    color: white;
+    background-color: #4aaaa5;
+    margin: 0px;
+    width: 25%;
+}
+
+.contact-form{
+    width: 300px;
+    max-width: 100%;
+    background: white;
+    position: 50%;
+    right: 10000px;
+    top: 50%;
+    transform: translate(80%,30%);
+    padding: 50px 130px;
+    text-align: left;
+    margin: right;
+    
+}
+
